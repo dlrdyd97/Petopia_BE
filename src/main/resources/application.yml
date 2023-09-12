@@ -1,0 +1,30 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/7teams?serverTimezone=Asia/Seoul
+    username: root
+    password: 123456
+  jpa:
+    open-in-view: true # true : 기본값 
+    hibernate:
+      # create : 기존에 테이블을 drop 하고 다시 생성하는 것. 애플리케이션이 실행되는 시점에 drop과 create 실행
+      # update : 기존에 테이블이 없을 대는 새로 생성하지만 있으면 그대로 유지. 테이블에 추가되는 컬럼이 존재하면 해당 테이블을 업데이트
+      ddl-auto: update
+      naming:
+        # 엔티티(테이블)을 만들 때 변수명 그대로 테이블 필드(컬럼)를 만든다.
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true # 콘솔창에 sql 명령문을 출력
+    properties:
+      hibernate.format_sql: true
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp  
+  custom:
+    imagepath: "file:///C:/Project/imgs/"
+    connectPath: "imgs/**"
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 200MB
+      location: c:\\Project\\React_Source\\Petopia_FE\\public\\uploadimgs
