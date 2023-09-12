@@ -7,8 +7,9 @@
 * 23.04.18 - 23.06.05 ( 총 48일 )
 
 ### ⚙️ 개발 환경 및 사용 기술 스택
-* Java 8
-* JDK 
+* JDK 17
+* **Data Base** Mysql 8.0
+* sts 4.18
 # This is a H1
 ## This is a H2
 ### This is a H3
