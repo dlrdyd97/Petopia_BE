@@ -22,7 +22,7 @@
 
 ## 📌 주요 기능
 **지도**
-![Uploading image.png…]()
+![image](https://github.com/dlrdyd97/Petopia_BE/assets/121559376/79835dc2-cc18-4a4c-b7ab-49c86af79c20)
 * 카카오맵 API 연동
 * 공공 데이터 자료 (CSV) DB에 저장
 # This is a H1
