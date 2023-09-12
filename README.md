@@ -57,6 +57,11 @@
 * 리뷰 관리 ( 수정 및 삭제 )
 * 1:1문의 CRUD
 
+**관리자 페이지**
+* 회원관리
+* 신고관리
+* 문의 답변 CRUD
+
 # This is a H1
 ## This is a H2
 ### This is a H3
