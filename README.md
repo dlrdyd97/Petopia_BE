@@ -22,9 +22,18 @@
 
 ## 📌 주요 기능
 **지도**
-![image](https://github.com/dlrdyd97/Petopia_BE/assets/121559376/79835dc2-cc18-4a4c-b7ab-49c86af79c20)
 * 카카오맵 API 연동
-* 공공 데이터 자료 (CSV) DB에 저장
+* 카카오맵 API 마커,인포윈도우,클러스터링 적용
+* 지역 선택 시 좌표이동 기능
+* 공공 데이터 자료 (CSV) 연동
+
+**리뷰**
+* 카카오맵 API 연동
+* 공공 데이터 자료 (CSV) 연동
+* 리뷰 CRUD
+* 별점 기능
+* 맞춤 정렬 옵션 ( ex 별점순 , 최신순 )
+* 신고 기능
 # This is a H1
 ## This is a H2
 ### This is a H3
