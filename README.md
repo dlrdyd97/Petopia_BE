@@ -22,6 +22,7 @@
 
 ## 📌 주요 기능
 **지도**
+![Uploading image.png…]()
 * 카카오맵 API 연동
 * 공공 데이터 자료 (CSV) DB에 저장
 # This is a H1
