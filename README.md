@@ -19,6 +19,10 @@
   * CSS
   * JavaScript
   * KakaoMap API
+
+## 📌 주요 기능
+**지도**
+* 카카오맵 API 연동
 # This is a H1
 ## This is a H2
 ### This is a H3
