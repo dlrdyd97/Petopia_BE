@@ -10,7 +10,7 @@
 * **개발 환경(Environment)**
   * JDK 17
   * **Database** : Mysql 8.0
-  * **IDE** STS 4.18
+  * **IDE** : STS 4.18
   * **ORM** : JPA
 * **사용 기술 스택(Technology Stack)**
   * JPA
