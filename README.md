@@ -21,12 +21,12 @@
   * KakaoMap API
 
 ## 📌 주요 기능
-**지도 -** **[상세보기 - Wiki](https://github.com/dlrdyd97/Petopia_BE/wiki/%EC%A7%80%EB%8F%84-(-Map-)-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
+**지도 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%EC%A7%80%EB%8F%84-(-Map-)-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * 카카오맵 API 연동
 * 카카오맵 API의 마커, 인포윈도우, 클러스터러 적용
 * 공공 데이터 자료 (CSV) 연동
 
-**리뷰 -** **[상세보기 - Wiki](https://github.com/dlrdyd97/Petopia_BE/wiki/%EB%A6%AC%EB%B7%B0-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
+**리뷰 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%EB%A6%AC%EB%B7%B0-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * 카카오맵 API 연동
 * 공공 데이터 자료 (CSV) 연동
 * 리뷰 CRUD
