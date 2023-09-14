@@ -11,6 +11,7 @@
   * JDK 17
   * Mysql 8.0
   * STS 4.18
+  * Vscode 1.82.1
 * **사용 기술 스택(Technology Stack)**
   * JPA
   * HTML
