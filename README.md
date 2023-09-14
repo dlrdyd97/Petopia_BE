@@ -34,7 +34,7 @@
 * 리뷰후기 맞춤 정렬 옵션 ( ex 별점순 , 최신순 )
 * 신고 기능
 
-**여행추천 게시판**
+**여행추천 게시판 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%EC%97%AC%ED%96%89%EC%B6%94%EC%B2%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * 게시판 기능
 * 추천 기능 및 관심목록 저장 기능
 * 게시글 CRUD
