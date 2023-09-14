@@ -47,7 +47,7 @@
 * 로그인 시 쿠키 및 세션 생성
 * 소셜로그인 기능
 
-**회원가입**
+**회원가입 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * ID 중복 체크
 * 소셜로그인 기능
 
