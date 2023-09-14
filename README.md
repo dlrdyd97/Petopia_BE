@@ -41,7 +41,7 @@
 * 게시글 검색 기능
 * 신고 기능
 
-**로그인**
+**로그인 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * DB값 검증
 * ID찾기, PW찾기
 * 로그인 시 쿠키 및 세션 생성
