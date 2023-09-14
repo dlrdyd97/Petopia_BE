@@ -9,9 +9,8 @@
 ### ⚙️ 개발 환경 및 사용 기술 스택
 * **개발 환경(Environment)**
   * JDK 17
-  * **Database** : Mysql 8.0
-  * **IDE** : STS 4.18
-  * **ORM** : JPA
+  * Mysql 8.0
+  * STS 4.18
 * **사용 기술 스택(Technology Stack)**
   * JPA
   * HTML
