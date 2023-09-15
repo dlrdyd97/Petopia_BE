@@ -51,7 +51,7 @@
 * ID 중복 체크
 * 소셜로그인 기능
 
-**마이페이지**
+**마이페이지 -** **[상세보기 - Wiki 이동](https://github.com/dlrdyd97/Petopia_BE/wiki/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C)**
 * 프로필 사진 등록 및 수정
 * 회원정보 수정 및 탈퇴
 * 리뷰 관리 ( 수정 및 삭제 )
